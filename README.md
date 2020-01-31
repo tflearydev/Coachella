@@ -13,7 +13,7 @@ ____
 ___
 
 
-[CLICK HERE TO VIEW](https://trello.com/b/pfS9qd7v/startuprocket)
+[CLICK HERE TO VIEW](https://coachellafest.netlify.com/)
 
 
 
