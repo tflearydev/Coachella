@@ -3515,6 +3515,19 @@ input, select, textarea {
 
 		}
 
+
+		/*ticket button mobile*/
+
+		@media screen and (max-width: 750px) {
+
+		.ticket-btn {
+
+			margin-left: -50px
+
+		}
+
+	}
+
 /* Header */
 
 	#header {
