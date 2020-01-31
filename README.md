@@ -20,10 +20,35 @@ ___
 ## Quick Site Glance :
 ____
 
-<img src='pics/truehome.png' alt='home' height=450 width=450/>
+### Desktop
 
-<img src='pics/startupcard.png' alt='home' height=450 width=450/>
+<img src='images/desktop1.png' alt='home' height=450 width=650/>
 
-<img src='pics/investorforms.png' alt='home' height=450 width=450/>
+<img src='images/desktop2.png' alt='home' height=450 width=650/>
+
+<img src='images/desktop2.png' alt='home' height=450 width=650/>
+
+<img src='images/desktop2.png' alt='home' height=450 width=650/>
+
+
+
+### Mobile
+
+<img src='images/mobile1.png' alt='home' height=350 width=200/>
+
+
+<img src='images/mobile2.png' alt='home' height=350 width=200/>
+
+
+<img src='images/mobile3.png' alt='home' height=350 width=200/>
+
+
+<img src='images/mobile4.png' alt='home' height=350 width=200/>
+
+
+<img src='images/mobile5.png' alt='home' height=350 width=200/>
+
+
+
 
 
