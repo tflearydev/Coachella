@@ -3242,7 +3242,7 @@ input, select, textarea {
 			#wrapper > .bg.fixed {
 				position: fixed;
 				width: 100vw;
-				height: 100vh;
+				height:100vh;
 			}
 
 		#wrapper.fade-in:before {
