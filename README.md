@@ -9,7 +9,7 @@ ____
 * HTML5, CSS3, SASS, JavaScript, jQuery
 
 
-## Live Deployed Project Link & User Stories
+## Live Link
 ___
 
 
