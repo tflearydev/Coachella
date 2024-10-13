@@ -6,7 +6,7 @@ This is a Coachella/Festival concept. When I was contacted by a recuiter from Li
 ## Technologies Used:
 ____
 
-* HTML5, CSS3, SASS, JavaScript, jQuery
+* HTML5, CSS3, SASS, JavaScript, jQuery 
 
 
 ## Live Link
